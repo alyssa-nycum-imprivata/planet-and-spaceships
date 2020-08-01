@@ -1,0 +1,1 @@
+Follows practice exercise found here: https://github.com/nashville-software-school/bangazon-inc/blob/master/book-1-orientation/chapters/DATA_STRUCTURES_LIST.md
