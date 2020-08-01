@@ -1,0 +1,12 @@
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/obj/Debug/netcoreapp3.1/planet-and-spaceships.csprojAssemblyReference.cache
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/obj/Debug/netcoreapp3.1/planet-and-spaceships.AssemblyInfoInputs.cache
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/obj/Debug/netcoreapp3.1/planet-and-spaceships.AssemblyInfo.cs
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/obj/Debug/netcoreapp3.1/planet-and-spaceships.csproj.CoreCompileInputs.cache
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/bin/Debug/netcoreapp3.1/planet-and-spaceships.deps.json
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/bin/Debug/netcoreapp3.1/planet-and-spaceships.runtimeconfig.json
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/bin/Debug/netcoreapp3.1/planet-and-spaceships.runtimeconfig.dev.json
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/bin/Debug/netcoreapp3.1/planet-and-spaceships.dll
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/bin/Debug/netcoreapp3.1/planet-and-spaceships.pdb
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/obj/Debug/netcoreapp3.1/planet-and-spaceships.dll
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/obj/Debug/netcoreapp3.1/planet-and-spaceships.pdb
+/Users/alyssanycum/workspace/personal/dotnet/common-types-list/planet-and-spaceships/obj/Debug/netcoreapp3.1/planet-and-spaceships.genruntimeconfig.cache
